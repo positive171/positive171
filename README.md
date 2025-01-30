@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @positive171
+- 👋 Hi, I’m Louis
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Projects
