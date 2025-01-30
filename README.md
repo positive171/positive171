@@ -2,6 +2,6 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me: Email
+- 📫 How to reach me: Email: louisg3867@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: From Toronto, Canada
